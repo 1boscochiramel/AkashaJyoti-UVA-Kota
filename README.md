@@ -1,5 +1,7 @@
 # Akāsha Jyoti — Balloon-Borne Global UV-A Attenuation over the Kota Region (5 October 2025)
 
+[![DOI](https://zenodo.org/badge/1287986362.svg)](https://doi.org/10.5281/zenodo.21155989)
+
 Paper, analysis code, and data for the high-altitude balloon (HAB) flight launched from
 **Sultanpur, Kota district, Rajasthan, India** (25.298°N, 76.192°E) on **5 October 2025**,
 reaching ≈17.6 km pressure altitude.
