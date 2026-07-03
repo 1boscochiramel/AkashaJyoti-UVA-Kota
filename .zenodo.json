@@ -1,0 +1,24 @@
+{
+  "title": "Balloon-Borne Profiling of Global UV-A Attenuation over the Kota Region, Rajasthan, India: Effective Optical Depth, Satellite Aerosol Context, and Instrument Performance from a Low-Cost High-Altitude Flight (paper, code, and data)",
+  "description": "Manuscript, analysis code, and data for the Akāsha Jyoti high-altitude balloon flight launched from Sultanpur, Kota district, Rajasthan, India (25.298N, 76.192E) on 5 October 2025, reaching ~17.6 km pressure altitude. The primary instrument was a factory-calibrated Apogee SU-202 UV-A radiometer (305-390 nm). Headline result: the effective vertical optical depth of global (hemispherical) UV-A was 0.233 +/- 0.023, versus a direct-beam extinction expectation of 1.74 +/- 0.21 (Rayleigh + MAIAC AOD extrapolated to 360 nm), giving eta = 0.134 +/- 0.021 - a quantified measure of diffuse replenishment under a moderately turbid, non-absorbing atmosphere. The archive contains the SSRN-ready PDF, LaTeX source, all figures, reproduction scripts (Python), the cleaned and raw flight datalogs, and along-track extracts of MAIAC MCD19A2 AOD, Sentinel-5P TROPOMI columns, ERA5 reanalysis, CPCB surface air quality, and NASA POWER surface UV-A used for cross-checks.",
+  "creators": [
+    {
+      "name": "Chiramel, Bosco",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0001-8456-5302"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "keywords": [
+    "high-altitude balloon",
+    "UV-A irradiance",
+    "aerosol optical depth",
+    "MAIAC",
+    "error propagation",
+    "India",
+    "low-cost sensors",
+    "atmospheric attenuation"
+  ]
+}
